@@ -1,0 +1,14 @@
+.body {
+  background-color: hsl(202, 76%, 97%);
+}
+
+#wedding-photo {
+  margin-right: auto;
+  margin-left: auto;
+  height: 400px;
+  border: 2px solid black;
+}
+
+.wedding-text {
+  font-family: "Niconne", cursive;
+}
